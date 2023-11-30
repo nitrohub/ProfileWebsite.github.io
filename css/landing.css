@@ -28,7 +28,8 @@ body{
   #section1 
   {
   	padding-top:200px;
-	  height:100vh;color: #fff;
+	  height:100vh;
+	  color: #fff;
   	background:url(../img/background.jpg);
 	width:104vw;
 	background-repeat:no-repeat;
